@@ -60,7 +60,7 @@ body{
 .attribution a {
      color: hsl(228, 45%, 44%); 
 }
-@media (min-width: 375px){
+@media (min-width: 350px){
     .container{
         width: 325px;
     }
